@@ -19,4 +19,4 @@ To deploy use this command from the project root:
 git ftp push -u hujs2012 -p - ftp://ftp.ace.aliyun.com:2222
 ``` 
 
-Contact @thoward for deployment password.
+Contact [@thoward](http://github.com/thoward) for deployment password.
