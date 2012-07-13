@@ -1,0 +1,60 @@
+@font-face {
+    font-family: 'License Plate';
+    src: url(LicensePlate.ttf);
+}
+
+body {
+  font-family: 'Lucida Grande', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+  margin: 100 auto;
+  background: #747fc0;
+}
+
+div.content { 
+  margin: 0;
+  height: 100%;
+  background: #ffffc0;
+  padding: 10% 10px;
+}
+
+div.logo {
+  margin: 0 auto;
+  border: 5px solid white;
+  background: blue;
+  color: white;
+  padding: 0;
+  width: 4.5em;
+  text-align: center;
+  -webkit-border-radius: 5px;
+  -moz-border-radius: 5px;
+  border-radius: 5px;
+  font-family: 'License Plate';
+  font-size: 5em;
+  /* box-shadow */
+  -webkit-box-shadow: rgba(0,0,0,0.2) 0px 1px 3px;
+  -moz-box-shadow: rgba(0,0,0,0.2) 0px 1px 3px;
+  box-shadow: rgba(0,0,0,0.2) 0px 1px 3px;
+}
+
+span.logo_dot {
+  font-family: Times;
+  vertical-align: middle;
+  font-size: .4em
+}
+span.logo_hanzi {
+  font-family: "Hei";
+}
+div.content .main {
+  margin: 10% 10%;
+  color: black;
+  height: 95%;
+  padding: 10;
+}
+
+div.content .main .page {
+  margin: 0 auto;
+  text-align: center;
+}
+
+div.content .main .page h2 {
+  margin: 10% auto;
+}
