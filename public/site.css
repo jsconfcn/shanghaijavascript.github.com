@@ -41,7 +41,7 @@ span.logo_dot {
   font-size: .4em
 }
 span.logo_hanzi {
-  font-family: "Hei";
+  font-family: "Hei", "SimHei", "Microsoft YaHei";
 }
 div.content .main {
   margin: 10% 10%;
